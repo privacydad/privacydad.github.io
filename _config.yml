@@ -20,10 +20,10 @@
 
 title: Privacy Dad
 email: info@privacydad.io
-description: Teaching kids and parents how to be safe and private online - on social media, chatrooms, games, and more.
-domain: privacydad.github.io   
-url: https://privacydad.github.io
-baseurl: /privacydad.github.io/
+description: >- # this means to ignore newlines until "baseurl:"
+  Teaching kids and parents how to be safe and private online - on social media, chatrooms, games, and more.
+url: ""
+baseurl: ""
 twitter_username: privacydad
 github_username:  privacydad
 

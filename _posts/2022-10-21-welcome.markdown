@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2022-10-21 13:00:39 -0400
+categories: welcome
+---
+Welcome parents!
