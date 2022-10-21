@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Privacy Dad
-email: info@privacydad.io
+email: info@privacydad.co
 description: >- # this means to ignore newlines until "baseurl:"
   Teaching kids and parents how to be safe and private online - on social media, chatrooms, games, and more.
 url: ""
