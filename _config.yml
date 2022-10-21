@@ -20,8 +20,7 @@
 
 title: Privacy Dad
 email: info@privacydad.io
-description: >- # this means to ignore newlines until "baseurl:"
-Privacy Dad offers information about how parents can help their kids to be safe and private online on social media, chatrooms, games, and more.
+description: Privacy Dad offers information about how parents can help their kids to be safe and private online on social media, chatrooms, games, and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: privacydad
